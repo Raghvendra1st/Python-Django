@@ -13,4 +13,8 @@ day2- crud- create , read, update and delete
 (have  some assignmement)
 
 
+learning Python Djanjo 
+step 1 - installing and downloading 
+setp 2- set up and downloading 
+
   
