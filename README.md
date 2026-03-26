@@ -28,4 +28,4 @@ Teplates - templates are used in Django
 Models - Models are used to store data , perform migrations
 
 
-13 MAR - TODAY IN TRANNING THEY TAUGHT US TEMPLATE AND MODELS , 
+13 MAR - TODAY IN TRANNING THEY TAUGHT US TEMPLATE AND MODELS ,    ..............................................
